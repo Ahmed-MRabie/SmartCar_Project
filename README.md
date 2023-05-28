@@ -68,3 +68,6 @@ various modes of operation, including obstacle avoiding, manual control, and hum
 modules such as motors, ultrasonic sensors, servo motors, and UART communication to achieve the desired functionality. The code 
 is well-structured and modular, making it easy to understand and maintain. Overall, the SmartCar program showcases the capabilities
 of microcontroller-based systems in the field of robotics and automation.
+
+-----------------------------------------------------------------------------------------------------------------------
+
