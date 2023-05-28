@@ -20,15 +20,15 @@ Drivers:
 - LIB:       BIT_MATHS, STD_TYPES
 -----------------------------------------------------------------------------------------------------------------------
 Components:
-ATmega32 IMT Kit
-3x3.7v Batteries
-4 DC-Motors
-4 Wheels
-H-Bridge (L298N)
-Bluetooth Module 
-Servo Motor 
-Ultrasonic Sensor
-2 IR Sensors
+- ATmega32 IMT Kit
+- 3x3.7v Batteries
+- 4 DC-Motors
+- 4 Wheels
+- H-Bridge (L298N)
+- Bluetooth Module 
+- Servo Motor 
+- Ultrasonic Sensor
+- 2 IR Sensors
 -----------------------------------------------------------------------------------------------------------------------
 
 Code Structure:
