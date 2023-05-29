@@ -5,7 +5,7 @@ different directions, avoid obstacles, and track humans.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Video in LinkedIn:
+Video in LinkedIn: https://www.linkedin.com/posts/ahmed-m-rabie-0ba5b120b_avr-smartabrcar-avoidabrobtcales-activity-7068618013926727680-EjaC?utm_source=share&utm_medium=member_desktop
 
 -----------------------------------------------------------------------------------------------------------------------
 
